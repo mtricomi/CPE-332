@@ -1,4 +1,4 @@
-# CPE 332
+# CPE 332 GitHub
 ## **Wake Up, It's the First of the Month**
 ## 🧛 🦇 ⛓️ 🧛 🦇 ⛓️🧛 🦇 ⛓️🧛 🦇 ⛓️🧛 🦇 ⛓️
 Velcome to my github 🩸
