@@ -2,16 +2,16 @@
 ## These labs introduce basic git commands that are accessed through an ssh connection
 
 ## Hostname // env
-![Hostname // env](pics/hostname.JPG)
+![Hostname // env](pics/hostname.jpg)
 
 ## ps // pwd // clone
-![ps // pwd // clone](pics/pwdjpg.JPG)
+![ps // pwd // clone](pics/pwdjpg.jpg)
 
 ## cd // ls // df
-![cd // ls // df](pics/ls_df.JPG)
+![cd // ls // df](pics/ls_df.jpg)
 
 ## nano
-![nano](pics/nano.JPG)
+![nano](pics/nano.jpg)
 
 ## uname
 ![uname](pics/man_uname.jpg)
