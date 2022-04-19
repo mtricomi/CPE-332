@@ -1,7 +1,7 @@
 # DOCUMENTATION FOR LABS 3
 
 ## julian.py
-![julian.py](pics/julain.JPG)
+![julian.py](pics/julian.JPG)
 
 ## date_example.py
 ![dateexample.py](pics/dateexample.JPG)
