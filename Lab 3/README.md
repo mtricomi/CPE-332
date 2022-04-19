@@ -7,7 +7,7 @@
 ![dateexample.py](pics/dateexample.JPG)
 
 ## datetime_example.py
-![datetime](pics/datetime_example.JPG)
+![datetime](pics/datetime.JPG)
 
 ## time_example.py
 ![timeexample](pics/timeexample.JPG)
@@ -28,7 +28,7 @@
 ![cpu.py](pics/cpu.JPG)
 
 ## battery.py
-![battery.py](battery.JPG)
+![battery.py](pics/battery.JPG)
 
 ## documentstats.py
-![documentstats.py](documentstats.JPG)
+![documentstats.py](pics/documentstats.JPG)
