@@ -1,7 +1,7 @@
 # DOCUMENTATION FOR LAB 9
 ## install pyang and plantUML
 
-## ![pyang // plantUML](pics/"plantuml.JPG")
+## ![pyang // plantUML]("pics/plantuml.JPG")
 
 ## copy pyang
 ## ![copy](pics/"copy.JPG)
